@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! My name is Idan! 👋
 
-<!--
-**tzookyb/tzookyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a junior full stack/frontend developer, with a background of system admin (MCSA/CCNA).
+Just recently finished coding bootcamp. I know how to write an end-to-end SPA and PWA.
+#### My Knowledge Stack: 
+HTML
+CSS
+Javascript ES6
+Sass
+Node.js
+React.js
+MongoDB
+Express
+Redux
+REST API
