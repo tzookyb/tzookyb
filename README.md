@@ -1,7 +1,7 @@
 ### Hello! My name is Idan! 👋
 
 I'm a junior full stack/frontend developer, with a background of system admin (MCSA/CCNA).
-Just recently finished coding bootcamp. I know how to write an end-to-end SPA and PWA.
+Just recently finished coding bootcamp. I know how to write an end-to-end SPA and PWA, with full CRUDL methodolgy and REST API.
 #### My Tech Stack: 
 HTML  
 CSS  
@@ -12,4 +12,3 @@ React.js
 MongoDB  
 Express  
 Redux  
-REST API  
