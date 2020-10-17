@@ -9,6 +9,8 @@ Javascript ES6
 Sass  
 Node.js  
 React.js  
+Vue.js  
+Angular.ts
 MongoDB  
 Express  
 Redux  
