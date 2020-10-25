@@ -12,7 +12,7 @@ Sass
 Node.js  
 React.js  
 Vue.js  
-Angular.ts
+Angular.ts  
 MongoDB  
 Express  
 Redux  
