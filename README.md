@@ -10,7 +10,7 @@ CSS
 Javascript ES6  
 Sass  
 Node.js  
-React.js and TS 
+React.js and TS  
 Vue.js  
 Angular.ts  
 MongoDB  
